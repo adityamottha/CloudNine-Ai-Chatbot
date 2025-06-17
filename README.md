@@ -1,12 +1,21 @@
-# React + Vite
+## CloudNine - AI Chatbot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hey there! This is **CloudNine**, a chatbot I made using **React.js**, **Gemini API** from Google, and **Tailwind CSS**. I built it mostly for learning and fun but yeah, it's working fine.
 
-Currently, two official plugins are available:
+## About the Bot
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+CloudNine is a simple AI chatbot where you can type messages and get smart (sometimes weird) replies using the Gemini API. It’s kinda like ChatGPT but it’s my own version. You can chat with it and it tries to talk like a human (well... mostly).
 
-## Expanding the ESLint configuration
+## Tech Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React.js** – Frontend
+- **Gemini API** – AI power from Google
+- **Tailwind CSS** – For styling 
+
+## Features
+
+- Typing box to chat
+- Smooth UI with dark mode vibes
+- Gemini API integration
+- Mobile Friendly
+
